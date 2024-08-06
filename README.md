@@ -4,7 +4,7 @@ Meine Lieben, sorry dass es so lange gedauert hat, es gab wichtige Gründe für 
 
 Blogeinträge:
 
-[Segment 1 - 6, 100 Meilen](blog1.md)
+[Segment 1 - 6, 100 Meilen](blog1/post1.md)
 
 <!--
 **hovercat/hovercat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
