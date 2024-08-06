@@ -1,4 +1,9 @@
-## Hi there 👋
+## Colorado Trail 2024
+
+Meine Lieben, sorry dass es so lange gedauert hat, es gab wichtige Gründe für die Verzögerung.
+
+Blogeinträge:
+[blog1.md](Segment 1 - 6, 100 Meilen)
 
 <!--
 **hovercat/hovercat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
