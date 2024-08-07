@@ -1,6 +1,6 @@
 # Segment 1-6: 100 Meilen
 
-![Ahhhh](abmarsch.jpg)
+[Fotos für diesen Post, folgen](https://)
 
 Hey, welcome zu meinem neuen Abenteuer.
 
