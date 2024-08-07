@@ -1,6 +1,6 @@
 # Segment 1-6: 100 Meilen
 
-[!Ahhhh](abmarsch.jpg)
+![Ahhhh](abmarsch.jpg)
 
 Hey, welcome zu meinem neuen Abenteuer.
 
