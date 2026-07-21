@@ -1,6 +1,8 @@
 ## Hi!
 
-If you are from choir and need access to the sheet music repos, send me a message.
+My pages: [hovercat.github.io](https://hovercat.github.io)
+
+My website: [sympeux.at](https://sympeux.at)
 
 If you are a bioinformatician and want to use my SELEX/Aptamer repositories, be sure to check out Jan Hoinka's SELEX software tools first.
 They are really good.
